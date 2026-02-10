@@ -29,3 +29,8 @@ function SingleRecipe() {
 }
 
 export default SingleRecipe
+
+
+
+
+
